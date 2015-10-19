@@ -2,7 +2,6 @@
     "name": "croogo/croogo-codesniffer",
     "type": "phpcs-standard",
     "require": {
-        "cakephp/cakephp-codesniffer": "dev-master"
     },
     "license": "MIT",
     "authors": [
