@@ -1,0 +1,15 @@
+{
+    "name": "croogo/croogo-codesniffer",
+    "type": "phpcs-standard",
+    "require": {
+        "cakephp/cakephp-codesniffer": "dev-master"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Marlin Cremers",
+            "email": "m.cremers@cvo-technologies.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
